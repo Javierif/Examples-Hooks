@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.App h1 {
+  background-image: -webkit-linear-gradient(
+    left,
+    rgb(0, 87, 0),
+    #69a3da,
+    #ff0000
+  );
+  color: transparent;
+  -webkit-background-clip: text;
+  background-clip: text;
+}
